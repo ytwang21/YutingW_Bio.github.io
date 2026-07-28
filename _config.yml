@@ -3,9 +3,9 @@ title: Yuting Wang | Bioinformatics Researcher
 tagline: PhD Candidate in Biology @ Tongji University
 email: 2111271@tongji.edu.cn
 description: >
-  A final-year PhD student specializing in single-cell transcriptomics, 
-  immunosenescence, and bioinformatics data analysis. 
-  Passionate about exploring the molecular mechanisms of aging and cancer therapy.
+ I am a direct PhD candidate in Bioinformatics, expecting to graduate in 2027.
+ During my first two years of doctoral studies, I conducted research on the tumor microenvironment using single-cell transcriptomic data, and contributed to the development and publication of the TISCH2 database.
+ My current research focuses on integrating public single-cell transcriptomic datasets of stromal cells to construct a robust stromal aging clock. I aim to characterize aging-associated molecular features and identify key genes and pathways driving stromal cell aging, with the goal of uncovering potential therapeutic targets for aging-related diseases.
 baseurl: "" # 无需修改
 url: "https://Bioinfo_Wang.github.io" # 替换为你的仓库网址（即用户名.github.io）
 author: Bioinfo_Wang
