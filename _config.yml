@@ -28,17 +28,17 @@ share-links-active:
   # facebook: true
   # linkedin: true
   # vk: false
-  
 
-# 网站外观设置
-theme: beautiful-jekyll
-show_downloads: false
-nav_pages:
-  - About: "about"
-  - Research: "research"
-  - Publications: "publications"
-  - Skills: "skills"
-  - Awards: "awards" 
+  
+# # 网站外观设置
+# theme: beautiful-jekyll
+# show_downloads: false
+# nav_pages:
+#   - About: "about"
+#   - Research: "research"
+#   - Publications: "publications"
+#   - Skills: "skills"
+#   - Awards: "awards" 
 
 ######################################
 # --- Colours / background image --- #
